@@ -1,2 +1,4 @@
 # Ignore transpiled JS files
 *.js
+
+node_modules

@@ -1,0 +1,19 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "TS basics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaOY/typescript-basics.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "Mika Yeap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikaOY/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/MikaOY/typescript-basics#readme"
+}
